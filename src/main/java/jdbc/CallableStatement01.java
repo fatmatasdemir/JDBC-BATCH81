@@ -87,6 +87,7 @@ SQL'de ise data return ediyorsa "function" denir. Return yapmıyorsa "procedure"
         System.out.println(cst2.getBigDecimal(1));
 
          //cikti   1.04666666666666666667
+        ///
 
 
 
